@@ -8,6 +8,12 @@
 
 2. **示例目录结构**
 
+<p align="center">
+  <img src="OneOCR/777.bmp">
+</p>
+<p align="center">
+  <img src="OneOCR/Result.png">
+</p>
 - `OneOCR/777.bmp`：待识别的图片示例。
 - `OneOCR/Result.png`：识别完成后的结果图片。
 
